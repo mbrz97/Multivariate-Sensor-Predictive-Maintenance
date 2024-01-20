@@ -1,6 +1,6 @@
 # Main.py
 
-## Overview
+## Data Processing and Visualization Script Documentation
 This Python script processes, analyzes, and visualizes data from CSV and Excel files. It focuses on handling specific data related to fields and wells, managing date-time information, detecting duplicates, and visualizing time series data.
 
 ## Key Features
@@ -63,7 +63,7 @@ This Python script processes, analyzes, and visualizes data from CSV and Excel f
 
 
 # data_prep.py
-Excel File Data Processing and Analysis Script Documentation
+## Excel File Data Processing and Analysis Script Documentation
 
 ## Overview
 This script is designed to read, process, and analyze data from Excel files in a specified directory. It focuses on identifying healthy and failure data points, splitting data based on gaps, rounding off time intervals, and eventually creating feature-label pairs for machine learning or data analysis purposes.
@@ -124,8 +124,7 @@ This documentation provides an overview of the script's functionality and usage.
 
 
 # naft.ipynb
-
-# LSTM-Based Predictive Maintenance Documentation
+## LSTM-Based Predictive Maintenance Documentation
 
 ## Overview
 This document outlines a method for predictive maintenance using a Long Short-Term Memory (LSTM) network. The LSTM network is trained exclusively on data representing healthy conditions of a system or machinery. The trained model is then used to predict future values under healthy conditions. Anomalies are detected when the model's outputs significantly deviate from expected values, indicating potential failures.
