@@ -123,7 +123,7 @@ This documentation provides an overview of the script's functionality and usage.
 
 
 
-# naft.ipynb
+# notebook.ipynb
 ## LSTM-Based Predictive Maintenance Documentation
 
 ## Overview
